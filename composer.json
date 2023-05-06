@@ -1,5 +1,5 @@
 {
-    "name": "mtolhuys/laravel-schematics",
+    "name": "thatobabusi/laravel-schematics",
     "description": "A interface to help you build your models",
     "keywords": [
         "mtolhuys",
@@ -11,7 +11,7 @@
         "schematics",
         "laravel"
     ],
-    "homepage": "https://github.com/mtolhuys/laravel-schematics",
+    "homepage": "https://github.com/thatobabusi/laravel-schematics",
     "license": "MIT",
     "type": "library",
     "authors": [
@@ -19,10 +19,15 @@
             "name": "Maarten Tolhuijs",
             "email": "mtolhuys@hotmail.com",
             "role": "Developer"
+        },
+        {
+            "name": "Thato Babusi",
+            "email": "thatobabusi@yahoo.com",
+            "role": "Developer"
         }
     ],
     "require": {
-        "php": "^7.0|^8.0"
+        "php": "^7.0|^8.0|^8.1|^8.2"
     },
     "require-dev": {
         "doctrine/dbal": "^2.0",
